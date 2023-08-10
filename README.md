@@ -1,4 +1,7 @@
-<h1>A script I made to automate converting images to a pdf coloring book that is compatible with Amazon KDP.</h1>
+<h1>A script to automate converting images to a pdf coloring book that is compatible with Amazon KDP.</h1>
+
+![somuchdog_arcana_3d_3d_render_highly_detailed_32k_uhd_as_an_adu_fe89092c-ad02-4609-bffc-d597f070983c](https://github.com/SOMUCHDOG/ImgToColoringBook/assets/35353414/6eb15a42-0057-4c2d-85e5-9fe5562c9260)
+
 
 To use...
 
