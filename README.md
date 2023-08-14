@@ -3,16 +3,27 @@
 ![somuchdog_arcana_3d_3d_render_highly_detailed_32k_uhd_as_an_adu_fe89092c-ad02-4609-bffc-d597f070983c](https://github.com/SOMUCHDOG/ImgToColoringBook/assets/35353414/6eb15a42-0057-4c2d-85e5-9fe5562c9260)
 
 
-To use...
+To use you will need to install Python3
 
-*I am using MacOS and homebrew, you may need to use different commands for Window or Linux*
+*I am using MacOS and homebrew, you may need to use different commands for Windows or Linux*
+
+Tested with version 3.11.4
 
 Install Python:
+
+#MacOS
 ```
 brew install python3
 ```
+#Linux
+```
+apt-get install python3
+```
+#Windows
+https://www.python.org/downloads/windows/
 
-Install Pillow and reportLab
+
+##Install Pillow and reportLab
 ```
 pip install Pillow reportLab
 ```
