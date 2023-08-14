@@ -11,19 +11,19 @@ Tested with version 3.11.4
 
 Install Python:
 
-#MacOS
+# MacOS
 ```
 brew install python3
 ```
-#Linux
+# Linux
 ```
 apt-get install python3
 ```
-#Windows
+# Windows
 https://www.python.org/downloads/windows/
 
 
-##Install Pillow and reportLab
+## Install Pillow and reportLab
 ```
 pip install Pillow reportLab
 ```
@@ -34,6 +34,16 @@ Run the program!
 
 ```
 python3 main.py
+```
+
+if you are having issues with running the program it is likely you have not configured your $PATH variable to your interpreter.
+You can use the command
+```
+Where Python3
+```
+to locate it and use this command to run it while in the project directory. Optionally you can configure your python3 interpreter $PATH variable.
+```
+path/to/your/Python3 main.py
 ```
 Should export as a pdf in the directory. :) Best of luck!
 
