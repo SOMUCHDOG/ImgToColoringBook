@@ -9,21 +9,21 @@ To use you will need to install Python3
 
 Tested with version 3.11.4
 
-## Install Python:
+# Install Python:
 
-# MacOS
+## MacOS
 ```
 brew install python3
 ```
-# Linux
+## Linux
 ```
 apt-get install python3
 ```
-# Windows
+## Windows
 https://www.python.org/downloads/windows/
 
 
-## Install Pillow and reportLab
+# Install Pillow and reportLab
 ```
 pip install Pillow reportLab
 ```
