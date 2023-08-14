@@ -9,7 +9,7 @@ To use you will need to install Python3
 
 Tested with version 3.11.4
 
-Install Python:
+## Install Python:
 
 # MacOS
 ```
