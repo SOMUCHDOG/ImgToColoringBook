@@ -9,7 +9,7 @@ To use you will need to install Python3
 
 Tested with version 3.11.4
 
-# Install Python:
+# 1. Install Python:
 
 ## MacOS
 ```
@@ -23,14 +23,14 @@ apt-get install python3
 https://www.python.org/downloads/windows/
 
 
-# Install Pillow and reportLab
+# 2. Install Pillow and reportLab
 ```
 pip install Pillow reportLab
 ```
 
-Upload images you want to convert into the folder. I used an aspect ratio of 3:4, I have not tested with other ratios.
+# 3. Upload images you want to convert into the /imgs folder. I used an aspect ratio of 3:4, I have not tested with other ratios.
 
-Run the program!
+# 4. Run the program!
 
 ```
 python3 main.py
