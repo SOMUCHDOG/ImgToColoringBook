@@ -26,4 +26,6 @@ python3 main.py
 ```
 Should export as a pdf in the directory. :) Best of luck!
 
+If you have questions, feel free to raise an issue and I will do my best to help you out.
+
 
